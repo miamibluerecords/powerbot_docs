@@ -68,6 +68,5 @@
 * [Ticket System](features/ticket-system.md)
 * [Anti-Raid](features/anti-raid.md)
 * [Auto Mod System](features/auto-mod-system.md)
-* [Logging System](features/logging-system.md)
 * [CRM - Zeiterfassung](features/crm-zeiterfassung.md)
 * [Social Alerts](features/social-alerts.md)
