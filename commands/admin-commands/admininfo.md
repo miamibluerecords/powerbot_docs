@@ -4,6 +4,8 @@ description: Mit dem Admin-Info Command können Informationen bei Membern hinter
 
 # /admininfo
 
+**Die eingetragenen Informationen werden bei** [**/info user**](info.md) **angezeigt. Dafür ist die Admin-Rolle erforderlich!**
+
 **`/admininfo add`**\
 **Beschreibung:** Fügt bei einem Member eine Admin Info hinzu\
 **Optionen:** User / Info-Text\
