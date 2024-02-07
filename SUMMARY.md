@@ -35,6 +35,6 @@
 * [Admin Commands](commands/admin-commands/README.md)
   * [Page 1](commands/admin-commands/page-1.md)
 * [User Commands](commands/user-commands/README.md)
-  * [Page 1](commands/user-commands/page-1.md)
+  * [/userbanner](commands/user-commands/userbanner.md)
 * [Moderator Commands](commands/moderator-commands/README.md)
   * [Page 1](commands/moderator-commands/page-1.md)
