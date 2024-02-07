@@ -8,4 +8,8 @@ description: Generiert eine Übersicht wie oft Mod-Commands genutzt wurden
 **Optionen:** –\
 **Permission:** Administrator
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+
+</div>

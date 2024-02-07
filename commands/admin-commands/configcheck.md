@@ -8,4 +8,8 @@ description: Überprüft die Config des Bots und generiert ein Embed mit den Erg
 **Optionen:** –\
 **Permission:** Administrator
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+
+</div>

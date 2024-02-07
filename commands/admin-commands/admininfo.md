@@ -14,4 +14,8 @@ description: Mit dem Admin-Info Command können Informationen bei Membern hinter
 **Optionen:** User / Info-Text\
 **Permission:** Member kicken + Admin-Rolle
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+
+</div>
