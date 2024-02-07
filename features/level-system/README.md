@@ -11,7 +11,7 @@ Durch folgende Möglichkeiten kann man leveln:
 1. Schreiben von Nachrichten
 2. Verbringen von Zeit in definierten Voice-Channel
 
-Mehr dazu gibt es hier: https://doc.pwr.lol/knowledgebase/xp-berechnung/
+Mehr dazu gibt es[ >>> hier <<<](xp-berechnung.md)
 
 ![](https://doc.pwr.lol/wp-content/uploads/2024/01/levelsystem1-1024x568.png)
 
