@@ -6,4 +6,6 @@ description: Generiert den eigenen Userbanner.
 
 **`/userbanner`**\
 **Optionen:** –\
-**Permission:** –
+**Permission:** -
+
+<figure><img src="../../.gitbook/assets/userbanner_mr.erdbeerbaum.webp" alt=""><figcaption></figcaption></figure>
