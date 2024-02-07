@@ -50,13 +50,13 @@
 ## dashboard
 
 * [Generelle Einstellungen](dashboard/generelle-einstellungen.md)
-* [Logging Channel](dashboard/logging-channel.md)
-* [Special Channels](dashboard/special-channels.md)
-* [Welcome Message](dashboard/welcome-message.md)
-* [Level System](dashboard/level-system.md)
-* [Auto Mod](dashboard/auto-mod.md)
-* [Ticket System](dashboard/ticket-system.md)
-* [Social Alerts](dashboard/social-alerts.md)
+* [Logging Channel Settings](dashboard/logging-channel-settings.md)
+* [Special Channels Settings](dashboard/special-channels-settings.md)
+* [Welcome Message Settings](dashboard/welcome-message-settings.md)
+* [Level System Settings](dashboard/level-system-settings.md)
+* [Auto Mod Settings](dashboard/auto-mod-settings.md)
+* [Ticket System Settings](dashboard/ticket-system-settings.md)
+* [Social Alerts Settings](dashboard/social-alerts-settings.md)
 
 ## Features
 
