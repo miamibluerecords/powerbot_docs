@@ -6,6 +6,7 @@
 
 * [1) Bot einladen](grundeinstellungen/1-bot-einladen.md)
 * [2) Generelle Einstellungen](grundeinstellungen/2-generelle-einstellungen.md)
+* [3) Logging Channel definieren](grundeinstellungen/3-logging-channel-definieren.md)
 
 ## Commands
 
