@@ -33,8 +33,8 @@
 ## Commands
 
 * [Admin Commands](commands/admin-commands/README.md)
-  * [Page 1](commands/admin-commands/page-1.md)
+  * [/admininfo](commands/admin-commands/admininfo.md)
 * [User Commands](commands/user-commands/README.md)
-  * [/userbanner](commands/user-commands/userbanner.md)
+  * [/userbanner](commands/user-commands/page-1.md)
 * [Moderator Commands](commands/moderator-commands/README.md)
   * [Page 1](commands/moderator-commands/page-1.md)
