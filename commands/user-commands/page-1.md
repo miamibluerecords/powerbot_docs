@@ -1,10 +1,9 @@
 ---
-description: Generiert den eigenen Userbanner
+description: Generiert den eigenen Userbanner.
 ---
 
 # /userbanner
 
-**/userbanner**\
-**Beschreibung:** Generiert den eigenen Userbanner\
+**`/userbanner`**\
 **Optionen:** –\
 **Permission:** –

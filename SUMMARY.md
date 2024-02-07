@@ -36,5 +36,7 @@
   * [/admininfo](commands/admin-commands/admininfo.md)
 * [User Commands](commands/user-commands/README.md)
   * [/userbanner](commands/user-commands/page-1.md)
+  * [/geburtstag](commands/user-commands/geburtstag.md)
+  * [/help](commands/user-commands/help.md)
 * [Moderator Commands](commands/moderator-commands/README.md)
   * [Page 1](commands/moderator-commands/page-1.md)
