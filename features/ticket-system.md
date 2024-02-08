@@ -12,7 +12,7 @@ Wir arbeiten nicht mit hässlichen Channels, die deinen Discord zumüllen. Bei u
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="424"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="424"><figcaption></figcaption></figure>
 
 </div>
 
