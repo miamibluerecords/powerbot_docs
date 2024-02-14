@@ -12,7 +12,7 @@ Wir arbeiten nicht mit hässlichen Channels, die deinen Discord zumüllen. Bei u
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="424"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="424"><figcaption></figcaption></figure>
 
 </div>
 
@@ -48,6 +48,6 @@ Erledigte Tickets werden in der Ticket Area in einen "Archiv-Thread" verschoben.
 
  
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="380"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="380"><figcaption></figcaption></figure>
 
 </div>

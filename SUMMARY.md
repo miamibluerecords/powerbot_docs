@@ -8,12 +8,29 @@
 * [2) Generelle Einstellungen](grundeinstellungen/2-generelle-einstellungen.md)
 * [3) Logging Channel definieren](grundeinstellungen/3-logging-channel-definieren.md)
 
+## Features
+
+* [Welcome System](features/welcome-system.md)
+* [Level System](features/level-system/README.md)
+  * [XP-Berechnung](features/level-system/xp-berechnung.md)
+* [Giveaway System](features/giveaway-system.md)
+* [Report System](features/report-system/README.md)
+  * [Nachrichten melden](features/report-system/nachrichten-melden.md)
+* [Ticket System](features/ticket-system.md)
+* [Feedback System](features/feedback-system.md)
+* [Umfrage System](features/umfrage-system.md)
+* [Anti-Raid](features/anti-raid.md)
+* [Auto Mod System](features/auto-mod-system.md)
+* [CRM - Zeiterfassung](features/crm-zeiterfassung.md)
+* [Social Alerts](features/social-alerts.md)
+
 ## Commands
 
 * [Admin Commands](commands/admin-commands/README.md)
   * [/admininfo](commands/admin-commands/admininfo.md)
   * [/ankuendigung](commands/admin-commands/ankuendigung.md)
   * [/configcheck](commands/admin-commands/configcheck.md)
+  * [/feedback](commands/admin-commands/feedback.md)
   * [/generate\_welcomebanner](commands/admin-commands/generate\_welcomebanner.md)
   * [/giveaway](commands/admin-commands/giveaway.md)
   * [/info](commands/admin-commands/info.md)
@@ -22,6 +39,7 @@
   * [/teamliste](commands/admin-commands/teamliste.md)
   * [/tempvoicechannel](commands/admin-commands/tempvoicechannel.md)
   * [/tickets](commands/admin-commands/tickets.md)
+  * [/umfrage](commands/admin-commands/umfrage.md)
   * [/zeiterfassung](commands/admin-commands/zeiterfassung.md)
   * [APP: Clear Channel](commands/admin-commands/app-clear-channel.md)
 * [User Commands](commands/user-commands/README.md)
@@ -57,18 +75,5 @@
 * [Level System Settings](dashboard/level-system-settings.md)
 * [Auto Mod Settings](dashboard/auto-mod-settings.md)
 * [Ticket System Settings](dashboard/ticket-system-settings.md)
+* [Feedback Settings](dashboard/feedback-settings.md)
 * [Social Alerts Settings](dashboard/social-alerts-settings.md)
-
-## Features
-
-* [Welcome System](features/welcome-system.md)
-* [Level System](features/level-system/README.md)
-  * [XP-Berechnung](features/level-system/xp-berechnung.md)
-* [Giveaway System](features/giveaway-system.md)
-* [Report System](features/report-system/README.md)
-  * [Nachrichten melden](features/report-system/nachrichten-melden.md)
-* [Ticket System](features/ticket-system.md)
-* [Anti-Raid](features/anti-raid.md)
-* [Auto Mod System](features/auto-mod-system.md)
-* [CRM - Zeiterfassung](features/crm-zeiterfassung.md)
-* [Social Alerts](features/social-alerts.md)
