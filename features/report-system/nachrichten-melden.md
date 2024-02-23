@@ -6,7 +6,7 @@ description: >-
 
 # Nachrichten melden
 
-Ein reicht ein simpler Rechtsklick auf eine Nachricht –> Apps –> Nachricht melden und den Rest erledigt der Bot.
+Es reicht ein simpler Rechtsklick auf eine Nachricht –> Apps –> Nachricht melden und den Rest erledigt der Bot.
 
 <div align="left">
 
