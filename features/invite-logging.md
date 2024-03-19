@@ -8,7 +8,7 @@ Das Invite-Logging gibt dir einerseits die Information durch welchen Invite-Link
 
 Was macht das System:
 
-* Im Dashboard findet man unter "Logging -> User Logging" den Punkt "Invite-Log". Dort wählt man einen Channel aus. Wer seine Member motivieren möchte, dass sie ihre Freunde einladen, sollte hier den selben Channel wie den "Welcome Channel" auswählen.\
+* Im Dashboard findet man unter "Invite System -> Basiseinstellungen" den Punkt "Invite-Log". Dort wählt man einen Channel aus. Wer seine Member motivieren möchte, dass sie ihre Freunde einladen, sollte hier den selben Channel wie den "Welcome Channel" auswählen.\
 
 *   Eine Nachricht mit "{member} wurde von {inviter} eingeldaden. Einladungs-Count: ..." wird in den Invite-Log Channel geschickt. \
     \
