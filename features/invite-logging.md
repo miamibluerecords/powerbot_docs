@@ -1,7 +1,5 @@
 ---
-description: >-
-  Das ultimative Invite-Logging System für dich, als Server-Admin und deine
-  User.
+description: Das ultimative Invite-Logging System für dich als Server-Admin und deine User.
 ---
 
 # Invite Logging
