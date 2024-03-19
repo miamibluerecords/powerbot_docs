@@ -21,6 +21,7 @@
 * [Umfrage System](features/umfrage-system.md)
 * [Anti-Raid](features/anti-raid.md)
 * [Auto Mod System](features/auto-mod-system.md)
+* [Invite Logging](features/invite-logging.md)
 * [CRM - Zeiterfassung](features/crm-zeiterfassung.md)
 * [Social Alerts](features/social-alerts.md)
 
