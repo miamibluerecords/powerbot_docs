@@ -6,7 +6,13 @@ description: >-
 
 # Ticket System
 
-Wir arbeiten nicht mit hässlichen Channels, die deinen Discord zumüllen. Bei uns gibt es Threads die noch dazu archiviert werden. Du brauchst somit nicht immer irgendwelche Websites öffnen um sehen zu können was da war. Du hast alles was du brauchst direkt auf deinem Discord. Achja und was wäre ein Ticket ohne Bewertungen? Das können User nämlich auch. Nicht nur mit Sternchen, sondern auch mit Text.
+Wir arbeiten grundsätzlich nicht mit hässlichen Channels, die deinen Discord zumüllen. Bei uns gibt es Threads die noch dazu archiviert werden. Du brauchst somit nicht immer irgendwelche Websites öffnen um sehen zu können was da war. Du hast alles was du brauchst direkt auf deinem Discord. Achja und was wäre ein Ticket ohne Bewertungen? Das können User nämlich auch. Nicht nur mit Sternchen, sondern auch mit Text.
+
+
+
+Falls du dennoch altmodisch unterwegs sein möchtest und Channels willst, dann kannst du dies natürlich einstellen. Beachte jedoch: Das Transscript von Tickets die als "Channel" angelegt wurden, können momentan noch nicht eingesehen werden!&#x20;
+
+
 
 Über das Ticket Panel kann ein Ticket erstellt werden:
 

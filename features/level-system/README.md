@@ -9,7 +9,7 @@ description: >-
 Durch folgende Möglichkeiten kann man leveln:
 
 1. Schreiben von Nachrichten
-2. Verbringen von Zeit in definierten Voice-Channel
+2. Verbringen von Zeit in definierten Voice-Channel, wenn es im Dashboard aktiviert und eingerichtet wurde
 
 Mehr dazu gibt es[ >>> hier <<<](xp-berechnung.md)
 
