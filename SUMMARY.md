@@ -11,6 +11,7 @@
 ## Features
 
 * [Welcome System](features/welcome-system.md)
+* [Verifizierungs System](features/verifizierungs-system.md)
 * [Level System](features/level-system/README.md)
   * [XP-Berechnung](features/level-system/xp-berechnung.md)
 * [Giveaway System](features/giveaway-system.md)
