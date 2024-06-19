@@ -11,7 +11,7 @@ Das Auto-Mod System sorgt dafür, dass dein Discord clean bleibt und sperrt verd
 Konfiguriert wird alles über das [Dashboard](../dashboard/auto-mod-settings.md)\
 Dort kannst du das Auto-Mod-System deinen Bedürfnissen nach anpassen.
 
-Auch kannst du einstellen, nach wie vielen Nachrichten, innerhalb von 10 Sekunden, das Anti-Spam greift. Hierbei als Info: Schreitet der Auto-Mod | Spam ein, wird der User automatisch für eine Stunde getimeouted und verwarnt. Dies gibt den Moderatoren die Möglichkeit zu reagieren und weitere Sanktionen zu ziehen. Insbesondere bei Raids ist dies sehr hilfreich, da der Angreif sofort gestoppt wird.
+Auch kannst du einstellen, nach wie vielen Nachrichten, innerhalb von 10 Sekunden, das Anti-Spam greift. Hierbei als Info: Schreitet der Auto-Mod | Spam ein, wird der User automatisch für eine Stunde getimeouted und verwarnt. Dies gibt den Moderatoren die Möglichkeit zu reagieren und weitere Sanktionen zu ziehen. Insbesondere bei Raids ist dies sehr hilfreich, da der Angriff sofort gestoppt wird.
 
 ***
 
