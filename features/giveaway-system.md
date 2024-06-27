@@ -2,7 +2,7 @@
 description: Erstelle einfach und schnell Giveaways für deine Community.
 ---
 
-# Giveaway System
+# Giveaways
 
 Giveaways sind das perfekte Tool um deiner Community eine Freude zu bereiten und für Aktivität zu sorgen. Du entscheidest in welchem Channel es stattfindet, wann es automatisch ausgelost werden soll und wie viele Gewinner du ziehen möchtest.&#x20;
 

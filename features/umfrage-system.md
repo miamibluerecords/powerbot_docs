@@ -2,7 +2,7 @@
 description: Erstelle einfach und schnell Umfragen mit dem PowerBot
 ---
 
-# Umfrage System
+# Umfragen
 
 Mit dem Umfrage System kann schnell und einfach eine Community Umfrage erstellt werden. Du gibst ein was du Fragen möchtest, wie lange die Umfrage laufen soll und definierst bis zu 5 Antwortmöglichkeiten, die per Select-Menü ausgewählt werden können:
 

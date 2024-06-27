@@ -4,7 +4,7 @@ description: >-
   perfekt für dich.
 ---
 
-# Verifizierungs System
+# Verifizierung
 
 Definiere im Dashboard eine Rolle, die verifiziere Member bekommen und erstelle mit `/verify createpanel` beliebig viele Verifizierungspanele
 

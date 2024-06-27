@@ -2,7 +2,7 @@
 description: Das ultimative Invite-System für dich als Server-Admin und deine User.
 ---
 
-# Invite System
+# Invite Tracker
 
 Das Invite-System gibt dir einerseits die Information durch welchen Invite-Link der Member auf deinen Discord-Server gekommen ist. Andererseits kannst du bei deinen Membern einen ultimativen Wettbewerb auslösen. Ganz nach dem Motto: "Wer hat mehr Leute auf deinen Server geholt?"
 
