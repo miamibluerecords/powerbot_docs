@@ -16,10 +16,10 @@ description: >-
 **Permission:** KickMember + Admin-Rolle\
 **Beschreibung:** Beendet eine laufende Umfrage manuell. Die UmfrageId findet man im Footer der Umfrage. Sie beginnt mit: #UM-.......
 
-[>>> Zur Feature Beschreibung <<<](../../features/umfrage-system.md)
+[>>> Zur Feature Beschreibung <<<](../../features/umfragen.md)
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 </div>

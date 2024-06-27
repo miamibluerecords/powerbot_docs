@@ -6,7 +6,7 @@ description: >-
 
 # Ticket System Settings
 
-Details zum Feature gibt es [>>> HIER <<<](../features/ticket-system/)
+Details zum Feature gibt es [>>> HIER <<<](../features/tickets/)
 
 <div data-full-width="true">
 

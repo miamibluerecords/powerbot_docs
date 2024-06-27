@@ -4,6 +4,7 @@
 
 ## Grundeinstellungen
 
+* [YT-Tutorial: Erste Schritte mit dem PowerBot](grundeinstellungen/yt-tutorial-erste-schritte-mit-dem-powerbot.md)
 * [1) Bot einladen](grundeinstellungen/1-bot-einladen.md)
 * [2) Generelle Einstellungen](grundeinstellungen/2-generelle-einstellungen.md)
 * [3) Logging Channel definieren](grundeinstellungen/3-logging-channel-definieren.md)
@@ -11,21 +12,23 @@
 ## Features
 
 * [Welcome System](features/welcome-system.md)
-* [Verifizierungs System](features/verifizierungs-system.md)
 * [Level System](features/level-system/README.md)
   * [XP-Berechnung](features/level-system/xp-berechnung.md)
-* [Giveaway System](features/giveaway-system.md)
+* [Giveaways](features/giveaways.md)
+* [Tickets](features/tickets/README.md)
+  * [Warteraum Ansagen](features/tickets/warteraum-ansagen.md)
+* [Formulare](features/formulare.md)
+* [Auto Mod System](features/auto-mod-system.md)
+* [Anti-Raid](features/anti-raid.md)
 * [Report System](features/report-system/README.md)
   * [Nachrichten melden](features/report-system/nachrichten-melden.md)
-* [Ticket System](features/ticket-system/README.md)
-  * [Warteraum Ansagen](features/ticket-system/warteraum-ansagen.md)
-* [Feedback System](features/feedback-system.md)
-* [Umfrage System](features/umfrage-system.md)
-* [Anti-Raid](features/anti-raid.md)
-* [Auto Mod System](features/auto-mod-system.md)
-* [Invite System](features/invite-system.md)
-* [CRM - Zeiterfassung](features/crm-zeiterfassung.md)
+* [Warn System](features/warn-system.md)
+* [Verifizierung](features/verifizierung.md)
+* [Feedbacks](features/feedbacks.md)
+* [Umfragen](features/umfragen.md)
+* [Invite Tracker](features/invite-tracker.md)
 * [Social Alerts](features/social-alerts.md)
+* [CRM - Zeiterfassung](features/crm-zeiterfassung.md)
 
 ## Commands
 
@@ -34,6 +37,7 @@
   * [/ankuendigung](commands/admin-commands/ankuendigung.md)
   * [/configcheck](commands/admin-commands/configcheck.md)
   * [/feedback](commands/admin-commands/feedback.md)
+  * [/formular](commands/admin-commands/formular.md)
   * [/generate\_welcomebanner](commands/admin-commands/generate\_welcomebanner.md)
   * [/giveaway](commands/admin-commands/giveaway.md)
   * [/info](commands/admin-commands/info.md)

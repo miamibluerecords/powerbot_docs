@@ -8,7 +8,7 @@ Logge dich im Dashboard ein und wechsle zum Menüpunkt "Feedback"
 
 Kümmere dich erstmal um die Grundeinstellungen:
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Feedback Log:** \
 Der Bot informiert in diesem Channel über neue Feedbacks
@@ -27,7 +27,7 @@ Diese Kategorien werden dem Feedback Panel hinzugefügt, wenn du es per /feedbac
 
 Hast du das erledigt, kannst du dich um die Fragen kümmern:
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Nun ist das Feedback System konfiguriert.&#x20;
 

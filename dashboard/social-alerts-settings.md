@@ -10,16 +10,16 @@ Wähle den Channel aus, in dem Ankündigungen bei neuen Videos, Streams, ... gep
 
 Wähle aus, welche Rolle bei neuen Videos, Streams, ... gepingt werden soll.
 
-
-
 ***
 
 **YouTube News:**
 
-Gib hier die Links zu YouTube Channeln, von denen du Benachrichtigungen erhalten möchtest an. <mark style="background-color:orange;">WICHTIG: Es muss immer die vollständige Kanal-URL inkl. Channel-ID angegeben werden. Beispiel: https://www.youtube.com/channel/UCeo4KWMuoe6U31SCeb\_Wnxg</mark>
+Gib hier die Links zu YouTube Kanälen an, von denen du Benachrichtigungen erhalten möchtest an.&#x20;
 
-<div data-full-width="true">
+***
 
-<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+**Twitch Live Notification:**
 
-</div>
+Trage hier die Kanalnamen, von denen du Benachrichtigungen erhalten möchtest an. Wichtig: Kanalnamen! Keine Links
+
+<figure><img src="../.gitbook/assets/powerbot_social.png" alt=""><figcaption></figcaption></figure>

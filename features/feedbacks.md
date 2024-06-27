@@ -4,14 +4,14 @@ description: >-
   zu deinen Themen zu geben.
 ---
 
-# Feedback System
+# Feedbacks
 
 Das Feedback System muss vorab im [Dashboard ](../dashboard/feedback-settings.md)eingerichtet werden. Danach kannst du es mit den [Commands ](../commands/admin-commands/feedback.md)verwalten.
 
 **Feedback Panel:**\
 Das generierte Feedback Panel sieht so aus:
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Für jedes Feedback wird im ausgewählten Channel ein Thread erstellt:
 

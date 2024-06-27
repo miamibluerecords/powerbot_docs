@@ -2,11 +2,11 @@
 description: Herzlich Willkommen bei der PowerBot Dokumentation
 ---
 
-# Getting started
+# Getting started with ultimate power⚡️
 
 Du findest hier alles was du über den Bot wissen musst :zap: Sollte dir etwas fehlen oder hast du eine veraltete Information gefunden, dann teil uns das gerne am [Discord ](https://discord.pwr.lol)mit. Auch wir sind nur Menschen :sunglasses:
 
-<figure><img src=".gitbook/assets/powerbot_social.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/powerbot_social (1).png" alt=""><figcaption></figcaption></figure>
 
 Für Fragen, Bug-Meldungen, ... schau bitte direkt bei uns am  [Discord ](https://discord.pwr.lol)vorbei. Dort haben wir für alles den passenden Channel. Auch kannst du dort verschiedenste Systeme des Bots sehen und testen.
 

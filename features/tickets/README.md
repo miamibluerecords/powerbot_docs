@@ -4,7 +4,7 @@ description: >-
   soooo schön.
 ---
 
-# Ticket System
+# Tickets
 
 Wir arbeiten grundsätzlich nicht mit hässlichen Channels, die deinen Discord zumüllen. Bei uns gibt es Threads die noch dazu archiviert werden. Du brauchst somit nicht immer irgendwelche Websites öffnen um sehen zu können was da war. Du hast alles was du brauchst direkt auf deinem Discord. Achja und was wäre ein Ticket ohne Bewertungen? Das können User nämlich auch. Nicht nur mit Sternchen, sondern auch mit Text.
 
@@ -18,7 +18,7 @@ Falls du dennoch altmodisch unterwegs sein möchtest und Channels willst, dann k
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="424"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="424"><figcaption></figcaption></figure>
 
 </div>
 
@@ -54,6 +54,6 @@ Erledigte Tickets werden in der Ticket Area in einen "Archiv-Thread" verschoben.
 
  
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="380"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" width="380"><figcaption></figcaption></figure>
 
 </div>
