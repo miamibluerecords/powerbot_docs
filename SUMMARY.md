@@ -39,6 +39,7 @@
   * [/configcheck](commands/admin-commands/configcheck.md)
   * [/feedback](commands/admin-commands/feedback.md)
   * [/formular](commands/admin-commands/formular.md)
+  * [/games](commands/admin-commands/games.md)
   * [/generate\_welcomebanner](commands/admin-commands/generate\_welcomebanner.md)
   * [/giveaway](commands/admin-commands/giveaway.md)
   * [/info](commands/admin-commands/info.md)
