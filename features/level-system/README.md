@@ -20,13 +20,10 @@ Du hast folgende Einstellungsmöglichkeiten:
 * Rank / Level Channel:\
   Hier werden Embeds gepostet, wenn ein User auf- bzw. absteigt
 * User-Rank-Banner:\
-  Dieses Bild wird beim Command /userbanner als Hintergrundbild eingefügt. Das Link zum Hintergrundbild muss die Größe 700×250 px haben und im Format: jpg|png sein.\
+  Dieses Bild wird beim Command /userbanner als Hintergrundbild eingefügt. Der Link zum Hintergrundbild muss die Größe 700×250 px haben und im Format: jpg|png sein.\
   WICHTIG: Der Link muss auch mit .jpg oder .png enden. Wenn man Bilder von Discord hochlädt sind meist noch andere Zeichenfolgen dran. Diese müssen entfernt werden. Erkennt der Bot das Bild nicht als jpg oder png, nimmt er das Standardbild
 * Sollen Team-Mitglieder auch leveln und Rollen bekommen?\
   Diese Option sollte selbsterklärend sein
-
-![](https://doc.pwr.lol/wp-content/uploads/2024/01/levelsystem3-1024x369.png)
-
 * Sollen User für die Zeit, die sie in einem Voice-Channel waren, XP bekommen?\
   Wird diese Option aktiviert, müssen nur noch Kategorien definiert werden, in denen man XP bekommt
 * Voice-Channel XP Kategorien:\
