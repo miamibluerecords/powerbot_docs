@@ -6,7 +6,7 @@ description: Verwarnt einen Member
 
 **`/warn`**\
 **Optionen:** User / Reason\
-**Permission:** Kick Member
+**Permission:** Timeout Member / Moderate Member
 
 
 
