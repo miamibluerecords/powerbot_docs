@@ -9,28 +9,6 @@
 * [2) Generelle Einstellungen](grundeinstellungen/2-generelle-einstellungen.md)
 * [3) Logging Channel definieren](grundeinstellungen/3-logging-channel-definieren.md)
 
-## Features
-
-* [Welcome System](features/welcome-system.md)
-* [Level System](features/level-system/README.md)
-  * [XP-Berechnung](features/level-system/xp-berechnung.md)
-* [Giveaways](features/giveaway-system.md)
-* [Tickets](features/ticket-system/README.md)
-  * [Warteraum Ansagen](features/ticket-system/warteraum-ansagen.md)
-* [Formulare](features/formulare.md)
-* [Auto Mod System](features/auto-mod-system.md)
-* [Anti-Raid](features/anti-raid.md)
-* [Anti-Nuke](features/anti-nuke.md)
-* [Report System](features/report-system/README.md)
-  * [Nachrichten melden](features/report-system/nachrichten-melden.md)
-* [Warn System](features/warn-system.md)
-* [Verifizierung](features/verifizierungs-system.md)
-* [Feedbacks](features/feedback-system.md)
-* [Umfragen](features/umfrage-system.md)
-* [Invite Tracker](features/invite-system.md)
-* [Social Alerts](features/social-alerts.md)
-* [CRM - Zeiterfassung](features/crm-zeiterfassung.md)
-
 ## Commands
 
 * [Admin Commands](commands/admin-commands/README.md)
@@ -43,6 +21,7 @@
   * [/generate\_welcomebanner](commands/admin-commands/generate\_welcomebanner.md)
   * [/giveaway](commands/admin-commands/giveaway.md)
   * [/info](commands/admin-commands/info.md)
+  * [/team](commands/admin-commands/team.md)
   * [/modstats](commands/admin-commands/modstats.md)
   * [/sendmessage](commands/admin-commands/sendmessage.md)
   * [/teamliste](commands/admin-commands/teamliste.md)
@@ -74,6 +53,28 @@
   * [/report](commands/report-system-commands/report.md)
   * [/reports](commands/report-system-commands/reports.md)
   * [APP: User melden](commands/report-system-commands/app-user-melden.md)
+
+## Features
+
+* [Welcome System](features/welcome-system.md)
+* [Level System](features/level-system/README.md)
+  * [XP-Berechnung](features/level-system/xp-berechnung.md)
+* [Giveaways](features/giveaway-system.md)
+* [Tickets](features/ticket-system/README.md)
+  * [Warteraum Ansagen](features/ticket-system/warteraum-ansagen.md)
+* [Formulare](features/formulare.md)
+* [Auto Mod System](features/auto-mod-system.md)
+* [Anti-Raid](features/anti-raid.md)
+* [Anti-Nuke](features/anti-nuke.md)
+* [Report System](features/report-system/README.md)
+  * [Nachrichten melden](features/report-system/nachrichten-melden.md)
+* [Warn System](features/warn-system.md)
+* [Verifizierung](features/verifizierungs-system.md)
+* [Feedbacks](features/feedback-system.md)
+* [Umfragen](features/umfrage-system.md)
+* [Invite Tracker](features/invite-system.md)
+* [Social Alerts](features/social-alerts.md)
+* [CRM - Zeiterfassung](features/crm-zeiterfassung.md)
 
 ## dashboard
 
