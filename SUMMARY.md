@@ -14,7 +14,6 @@
 * [Admin Commands](commands/admin-commands/README.md)
   * [/admininfo](commands/admin-commands/admininfo.md)
   * [/ankuendigung](commands/admin-commands/ankuendigung.md)
-  * [/configcheck](commands/admin-commands/configcheck.md)
   * [/feedback](commands/admin-commands/feedback.md)
   * [/formular](commands/admin-commands/formular.md)
   * [/games](commands/admin-commands/games.md)

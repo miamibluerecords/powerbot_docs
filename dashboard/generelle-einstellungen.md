@@ -21,7 +21,7 @@ Ist für die Member, die z.B. Admin-Infos sehen sollen
 **Moderator Rollen:**
 
 Die Rollen für Moderatoren. Ohne diese Rolle kann man keine Reports udgl. bearbeiten.\
-<mark style="background-color:orange;">Die Moderator Rollen müssen mindestens das Recht 'Mitglieder kicken' und 'Nicknames verwalten' haben!</mark>
+<mark style="background-color:orange;">Die Moderator Rollen müssen mindestens das Recht ´Mitglieder in Timeout´ haben!</mark>
 
 ***
 
