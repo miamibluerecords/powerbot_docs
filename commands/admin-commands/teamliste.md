@@ -14,8 +14,8 @@ description: Erstellt eine Teamliste bzw. löscht diese
 **Optionen:** –\
 **Permission:** Administrator
 
-<div align="left">
+<div align="center">
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Teamliste.neu.png" alt=""><figcaption></figcaption></figure>
 
 </div>

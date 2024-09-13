@@ -9,7 +9,7 @@ description: Infos über User, Server, ... anzeigen lassen
 **Optionen:** User\
 **Permission:** Member kicken
 
-**`/info guild`**\
+**`/info server`**\
 **Beschreibung:** Generiert ein Embed, dass alle Informationen des Discord-Servers enthält\
 **Optionen:** Guild\
 **Permission:** Member kicken

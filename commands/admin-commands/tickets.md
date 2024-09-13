@@ -13,13 +13,13 @@ _<mark style="background-color:orange;">Wichtig: Das Ticket System muss vorab im
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Discord_yklc2UxmxR.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Ticket_Kategorie.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
