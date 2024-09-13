@@ -1,7 +1,5 @@
 ---
-description: >-
-  Mit "Edit Embed" kannst du ganz einfach deine Embeds bearbeiten ! HINWEIS: Du
-  kannst nur Embeds vom PowerBot ändern !
+description: Mit "Edit Embed" kannst du ganz einfach Embeds vom PowerBot bearbeiten.
 ---
 
 # APP: Edit Embed
