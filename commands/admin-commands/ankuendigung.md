@@ -8,7 +8,7 @@ description: >-
 # /ankuendigung
 
 **`/ankuendigung`**\
-**Optionen:** Channel / Titel / Text / _Erwähnung / Titelbild_\
+**Optionen:** Channel / Titel / Text / _Erwähnung / Titelbild / Color_\
 **Permission:** Administrator
 
 **Beispiel für einen Text mit Zeilenumbrüche:**

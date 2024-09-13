@@ -5,7 +5,7 @@ description: Erstelle ein normales Formular oder Bewerbungsformular
 # /formular
 
 **`/formular erstellen`**\
-**Optionen:** titel / description / panel\_channel / formular\_area / type / bearbeiter\_rolle / frage1 / _frage2 / frage3 / frage4 / bewerbungs\_rolle_\
+**Optionen:** titel / description / panel\_channel / formular\_area / type / bearbeiter\_rolle / frage1 / _frage2 / frage3 / frage4 / bewerbungs\_rolle / titelbild_\
 **Permission:** Administrator
 
 
@@ -26,8 +26,14 @@ description: Erstelle ein normales Formular oder Bewerbungsformular
   Frage 1 ist ein Pflichtfeld. Die anderen sind optional
 * **Bewerbungs\_Rolle:**\
   Bei Bewerbungsformularen kannst du eine Bewerbungs-Rolle definieren. Diese wird dem Member automatisch gegeben, wenn die Bewerbung angenommen wird
+* **Titelbild:**\
+  Beim Titelbild kannst du ein Bild deiner Wahl einfügen.
 
-<figure><img src="../../.gitbook/assets/powerbot_formulare.png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+<figure><img src="../../.gitbook/assets/Formular_Erstellen.png" alt=""><figcaption></figcaption></figure>
 
 Hier ein Beispiel, wie es bei uns eingerichtet ist:
 

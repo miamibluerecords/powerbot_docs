@@ -4,18 +4,18 @@ Im Bereich „Generelle Einstellungen“ findest du alle wichtigen Optionen, dam
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Generelle_Einstellungen 1.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Generelle_Einstellungen 2.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/image (3) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Genrelle_Einstellungen 3.png" alt=""><figcaption></figcaption></figure>
 
 </div>
