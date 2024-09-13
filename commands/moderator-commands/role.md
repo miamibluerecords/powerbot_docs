@@ -11,7 +11,7 @@ description: Rollen an User vergeben oder entziehen
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/role_give.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -22,6 +22,6 @@ description: Rollen an User vergeben oder entziehen
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/role_remove.png" alt=""><figcaption></figcaption></figure>
 
 </div>

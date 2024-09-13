@@ -9,9 +9,9 @@ description: XP Verwaltung (vergeben, entziehen)
 **Optionen:** User / Amount / Reason\
 **Permission:** Kick Member
 
-<div align="left">
+<div align="center">
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/xp_give.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -20,8 +20,8 @@ description: XP Verwaltung (vergeben, entziehen)
 **Optionen:** User / Amount / Reason\
 **Permission:** Kick Member
 
-<div align="left">
+<div align="center">
 
-<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/xp_remove.png" alt=""><figcaption></figcaption></figure>
 
 </div>

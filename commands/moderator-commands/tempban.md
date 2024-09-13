@@ -9,3 +9,5 @@ description: >-
 **`/tempban`**\
 **Optionen:** User / Dauer / Delete / Reason\
 **Permission:** Kick Member + Mod-Role
+
+<figure><img src="../../.gitbook/assets/tempban_bild.png" alt=""><figcaption></figcaption></figure>

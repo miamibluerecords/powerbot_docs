@@ -10,20 +10,14 @@ Du hast einen Sponsor? Auch das ist kein Problem. Gib ihn einfach beim Erstellen
 
 <div>
 
-<figure><img src="../.gitbook/assets/giveaway_post.png" alt="" width="401"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Discord_SM0fhwXBdg.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/giveaway_verlost.png" alt="" width="407"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Discord_QSvWmDZnnN.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <figure><img src="../.gitbook/assets/giveaway_teilnahme.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/giveaway_nimmtschonteil.png" alt=""><figcaption></figcaption></figure>
-
-<div align="left">
-
-<figure><img src="../.gitbook/assets/giveaway_gewonnen.png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>

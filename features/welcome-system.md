@@ -8,9 +8,9 @@ description: >-
 
 Du deinen neuen Usern zusätzlich eine automatische Willkommensnachricht per DM schicken und eine Community-Rolle zuweisen
 
-<div align="left">
+<div align="center">
 
-<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/welcome_system.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

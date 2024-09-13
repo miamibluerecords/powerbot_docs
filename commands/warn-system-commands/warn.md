@@ -10,8 +10,8 @@ description: Verwarnt einen Member
 
 
 
-<div align="left">
+<div align="center">
 
-<figure><img src="../../.gitbook/assets/Bild_2024-02-07_170107750.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/warn_user.png" alt=""><figcaption></figcaption></figure>
 
 </div>
