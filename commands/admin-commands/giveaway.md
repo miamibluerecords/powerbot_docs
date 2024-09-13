@@ -5,11 +5,21 @@ description: Erstellt ein Giveaway und sendet es im ausgewählten Channel
 # /giveaway
 
 **`/giveaway create`**\
-**Optionen:** Channel / Preis / WinnerCount / EndDate / _PingRole / Sponsor / Beschreibung_\
+**Optionen:** Channel / Type / Preis / WinnerCount / EndDate / _PingRole / Sponsor / Beschreibung / Titelbild / Accesrole / Blockrole_\
 **Permission:** Administrator
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Discord_QSvWmDZnnN.png" alt=""><figcaption></figcaption></figure>
 
 </div>
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/Discord_SM0fhwXBdg.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+**`/giveaway reroll`**\
+**Optionen: G**iveaway\_id\
+**Permission:** Administrator
