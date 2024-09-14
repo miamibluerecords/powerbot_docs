@@ -72,6 +72,7 @@
   * [Nachrichten melden](features/report-system/nachrichten-melden.md)
 * [Warn System](features/warn-system.md)
 * [Verifizierung](features/verifizierungs-system.md)
+* [Roblox-Verifizierung](features/roblox-verifizierung.md)
 * [Feedbacks](features/feedback-system.md)
 * [Umfragen](features/umfrage-system.md)
 * [Invite Tracker](features/invite-system.md)

@@ -8,9 +8,9 @@ description: >-
 
 Es reicht ein simpler Rechtsklick auf eine Nachricht –> Apps –> Nachricht melden und den Rest erledigt der Bot.
 
-<div align="left">
+<div align="center">
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/report_nachricht.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -18,27 +18,27 @@ Wird eine Nachricht gemeldet, sendet der Bot ein Embed in den Report-Log bzw. Mo
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/message_report_ubernahme.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/report_angenommen2.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/message_report_thread.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/report_thread2.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 In unserem Fall wird ein Thread erstellt. Der Reporter bekommt eine DM, dass sein Report nun bearbeitet wird. Zudem wird ein Thread erstellt wo der Autor der Nachricht und der Moderator hinzugefügt werden.
 
-<div align="left">
+<div align="center">
 
-<figure><img src="../../.gitbook/assets/image (31).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/report_logging.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 Wurde der Report bearbeitet und geklärt, klickt der Moderator auf „Report als erledigt markieren“. Es öffnet sich ein Modal, bei dem man die Abschlussmeldung eingibt. Danach wird der Thread archiviert und der Reporter bekommt eine DM, dass sein Report nun erledigt wurde.
 
-<div align="left">
+<div align="center">
 
-<figure><img src="../../.gitbook/assets/message_report_erledigt.png" alt="" width="540"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/report_erledigt2.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

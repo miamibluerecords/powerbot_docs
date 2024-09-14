@@ -14,6 +14,6 @@ Außerdem kannst du im Dashboard unter "Generelle Einstellungen" eine Rolle defi
 
 [>>> Hier gehts zur Beschreibung des Commands <<<](../commands/admin-commands/formular.md)
 
-<figure><img src="../.gitbook/assets/powerbot_formularblock.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/formular_dashboard.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/powerbot_bewerbungsformular.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/powerbot_teambewerbung.png" alt=""><figcaption></figcaption></figure>

@@ -15,6 +15,6 @@ Einrichten kannst du das System im Dashboard unter "Social-Alerts".
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/powerbot_social.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/social_alerts_dash.png" alt=""><figcaption></figcaption></figure>
 
 </div>

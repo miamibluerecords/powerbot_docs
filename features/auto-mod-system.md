@@ -19,16 +19,16 @@ So sieht es aus, wenn der Auto-Mod aktiv wird:
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (47).png" alt="" width="328"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/powerbot_spam.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/image (49).png" alt="" width="450"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/powerbot_mod_system.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div align="left" data-full-width="false">
 
-<figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/spam_nachricht.png" alt=""><figcaption></figcaption></figure>
 
 </div>

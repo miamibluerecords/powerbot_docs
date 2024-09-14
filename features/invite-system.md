@@ -43,7 +43,7 @@ Das Invite-System gibt dir einerseits die Information durch welchen Invite-Link 
 
     <div data-full-width="true">
 
-    <figure><img src="../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/invite_dashboard.png" alt=""><figcaption></figcaption></figure>
 
     </div>
 * Feature in Planung:

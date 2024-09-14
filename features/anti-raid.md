@@ -6,7 +6,7 @@ description: >-
 
 # Anti-Raid
 
-&#x20;Das Spam System filtert solche Attacken sofort raus, sperrt die Angreifer und meldet es automatisch an die Moderatoren.
+Das Spam System filtert solche Attacken sofort raus, sperrt die Angreifer und meldet es automatisch an die Moderatoren.
 
 **Wie macht der Bot das?**\
 Im Detail werden wir das natürlich nicht verraten 🤫 Aber wie schon mal gesagt: Ein bisschen was von hier 🍪 Ein bisschen was von dort 🍿 Kräftig rühren und schütteln 🍹 Dann ein bisschen Magie 🧚‍♂️ Achja und viel Power ⚡️💥\
@@ -21,7 +21,7 @@ So sieht ein Vorfall im Channel aus:
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/automod_invite.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -29,6 +29,6 @@ So sieht es im Mod-Log aus:
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/invite_check.png" alt=""><figcaption></figcaption></figure>
 
 </div>

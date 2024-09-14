@@ -22,4 +22,4 @@ Gib hier die Links zu YouTube Kanälen an, von denen du Benachrichtigungen erhal
 
 Trage hier die Kanalnamen, von denen du Benachrichtigungen erhalten möchtest an. Wichtig: Kanalnamen! Keine Links
 
-<figure><img src="../.gitbook/assets/powerbot_social.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/social_alerts_dash (1).png" alt=""><figcaption></figcaption></figure>
