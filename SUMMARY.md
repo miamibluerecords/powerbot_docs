@@ -77,6 +77,8 @@
 * [Umfragen](features/umfrage-system.md)
 * [Invite Tracker](features/invite-system.md)
 * [Social Alerts](features/social-alerts.md)
+* [Selfroles](features/selfroles.md)
+* [Custom Commands](features/custom-commands.md)
 * [CRM - Zeiterfassung](features/crm-zeiterfassung.md)
 
 ## dashboard
