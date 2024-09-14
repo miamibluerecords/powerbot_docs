@@ -20,7 +20,7 @@ Du deinen neuen Usern zusätzlich eine automatische Willkommensnachricht per DM 
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/welcome_banner.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

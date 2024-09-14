@@ -10,7 +10,7 @@ Wer zum Ticket-Support auch einen Voice-Support anbietet, kann im Dashboard eine
 
 <div data-full-width="true">
 
-<figure><img src="../../.gitbook/assets/powerbot_warteraum.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/support_warteraum_ansagen.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

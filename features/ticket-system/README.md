@@ -18,7 +18,7 @@ Falls du dennoch altmodisch unterwegs sein möchtest und Channels willst, dann k
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="424"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Helpdesk_Panel.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -26,23 +26,19 @@ In der Ticket-Area wird das Ticket dann gepostet. Ebenso wird im Channel, wo sic
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/ticket_erstellt.png" alt="" width="436"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ticket_claim.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/ticket_bearbeitung.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ticket_übernahme.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 Der User wird per DM über den aktuellen Status benachrichtigt. Nachdem das Ticket als "Erledigt" markiert wurde, bekommt der User noch eine DM mit der Bitte um Feedback.
 
-<div align="left">
+<div align="center">
 
-<figure><img src="../../.gitbook/assets/ticket_dms.png" alt="" width="407"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/ticket_feedback.png" alt="" width="452"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ticket_bewertung.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -50,7 +46,7 @@ Erledigte Tickets werden in der Ticket Area in einen "Archiv-Thread" verschoben.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/ticket_abgeschlossen.png" alt="" width="409"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ticket_archiv.png" alt=""><figcaption></figcaption></figure>
 
  
 
