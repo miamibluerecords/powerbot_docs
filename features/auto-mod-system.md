@@ -29,6 +29,6 @@ So sieht es aus, wenn der Auto-Mod aktiv wird:
 
 <div align="left" data-full-width="false">
 
-<figure><img src="../.gitbook/assets/spam_nachricht.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/spam_nachricht (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
