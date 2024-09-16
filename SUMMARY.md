@@ -2,14 +2,18 @@
 
 * [Getting started with ultimate power⚡️](README.md)
 
-## Grundeinstellungen
+## 📢 Grundeinstellungen
 
 * [YT-Tutorial: Erste Schritte mit dem PowerBot](grundeinstellungen/yt-tutorial-erste-schritte-mit-dem-powerbot.md)
 * [1) Bot einladen](grundeinstellungen/1-bot-einladen.md)
 * [2) Generelle Einstellungen](grundeinstellungen/2-generelle-einstellungen.md)
 * [3) Logging Channel definieren](grundeinstellungen/3-logging-channel-definieren.md)
 
-## Commands
+## 💡 FAQ
+
+* [Meist gestellte Fragen](faq/meist-gestellte-fragen.md)
+
+## 💻 Alle Commands <a href="#commands" id="commands"></a>
 
 * [Admin Commands](commands/admin-commands/README.md)
   * [/admininfo](commands/admin-commands/admininfo.md)
@@ -56,7 +60,7 @@
   * [/reports](commands/report-system-commands/reports.md)
   * [APP: User melden](commands/report-system-commands/app-user-melden.md)
 
-## Features
+## ⚡ Features
 
 * [Welcome System](features/welcome-system.md)
 * [Level System](features/level-system/README.md)
@@ -81,7 +85,7 @@
 * [Custom Commands](features/custom-commands.md)
 * [CRM - Zeiterfassung](features/crm-zeiterfassung.md)
 
-## dashboard
+## 🖥️ dashboard
 
 * [Generelle Einstellungen](dashboard/generelle-einstellungen.md)
 * [Logging Channel Settings](dashboard/logging-channel-settings.md)

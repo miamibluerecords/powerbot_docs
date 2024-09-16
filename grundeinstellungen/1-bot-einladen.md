@@ -14,7 +14,7 @@ layout:
 
 # 1) Bot einladen
 
-**VORAB: Der Bot befindet sich momentan in der Beta-Phase. Du kannst den Bot nur auf deinen Discord-Server holen, wenn du dich für die Beta-Phase beworben hast und angenommen wurdest (In Außnahme fällen, wenn der Button auf ´Keine Bewerbung Erforderlich´ steht, ist eine Bewerbung nicht erforderlich).**
+**VORAB: Der Bot befindet sich momentan in der Beta-Phase. Je nach Beta-Status kannst du den Bot nur auf deinen Discord-Server holen, wenn du dich für die Beta-Phase beworben hast und angenommen wurdest (In Ausnahmefällen, wenn der Button auf ´Keine Bewerbung erforderlich´ steht, ist eine Bewerbung nicht erforderlich). Dies siehst du** [**>>> hier <<<**](https://discord.com/channels/994975619521712219/1199439009903017994)**. Wenn du den Kanal nicht öffnen kannst, muss du zuerst unserem Discord joinen:** [**https://discord.pwr.lol**](https://discord.pwr.lol)
 
 Gehe auf [dashboard.pwr.lol](http://dashboard.pwr.lol/) und klicke auf den Menüpunkt „Discord Server verwalten“. Es öffnet sich ein Fenster von Discord bei dem du dich\
 verifizieren musst. Nach der Verifizierung wirst du auf die Dashboard Seite weitergeleitet.
