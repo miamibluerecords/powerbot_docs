@@ -75,6 +75,7 @@
 * [Report System](features/report-system/README.md)
   * [Nachrichten melden](features/report-system/nachrichten-melden.md)
 * [Warn System](features/warn-system.md)
+* [Entbann-Antrag System](features/entbann-antrag-system.md)
 * [Verifizierung](features/verifizierungs-system.md)
 * [Roblox-Verifizierung](features/roblox-verifizierung.md)
 * [Feedbacks](features/feedback-system.md)
