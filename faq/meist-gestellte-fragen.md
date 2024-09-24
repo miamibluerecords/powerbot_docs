@@ -29,3 +29,12 @@ Die Hauptsprache des PowerBots ist Deutsch. Welche Sprache der Bot hat, ist abh�
 Momentan gibt es nur eine Übersetzung auf Englisch. Diese ist jedoch gerade erst im Entstehen. **Der Großteil des Bots ist noch nicht übersetzt**.&#x20;
 
 ***
+
+### 5) Wer kann auf das Dashboard zugreifen und Änderungen vornehmen?
+
+Damit man im Dashboard den Server verwalten kann, benötigt man eines der folgenden Rechte:
+
+* Administrator
+* Server verwalten
+
+***
