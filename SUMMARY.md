@@ -93,6 +93,7 @@
 * [Special Channels Settings](dashboard/special-channels-settings.md)
 * [Welcome Message Settings](dashboard/welcome-message-settings.md)
 * [Level System Settings](dashboard/level-system-settings.md)
+* [Entbann-Antrag Settings](dashboard/entbann-antrag-settings.md)
 * [Auto Mod Settings](dashboard/auto-mod-settings.md)
 * [Ticket System Settings](dashboard/ticket-system-settings.md)
 * [Feedback Settings](dashboard/feedback-settings.md)

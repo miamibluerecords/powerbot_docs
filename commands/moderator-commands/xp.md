@@ -25,3 +25,11 @@ description: XP Verwaltung (vergeben, entziehen)
 <figure><img src="../../.gitbook/assets/xp_remove.png" alt=""><figcaption></figcaption></figure>
 
 </div>
+
+`/xp reset`\
+**Beschreibung:** Entfernt alle XP vom jeweiligen User\
+**Optionen:** User / Reason\
+**Permissions:** Kick Member\
+
+
+<figure><img src="../../.gitbook/assets/Discord_q5x0PWpqRG.png" alt=""><figcaption></figcaption></figure>
