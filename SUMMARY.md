@@ -12,6 +12,7 @@
 ## 💡 FAQ
 
 * [Meist gestellte Fragen](faq/meist-gestellte-fragen.md)
+* [Tutorials](faq/tutorials.md)
 
 ## 💻 Alle Commands <a href="#commands" id="commands"></a>
 
