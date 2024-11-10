@@ -17,6 +17,8 @@ _<mark style="background-color:orange;">Wichtig: Das Ticket System muss vorab im
 
 </div>
 
+<mark style="color:yellow;">**WICHTIG: @everyone braucht das Recht "Nachrichten in Threads senden" und "Kanal anzeigen", damit User zum Ticket hinzugefügt werden kann.**</mark>
+
 <div align="left">
 
 <figure><img src="../../.gitbook/assets/Ticket_Kategorie.png" alt=""><figcaption></figcaption></figure>
