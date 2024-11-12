@@ -82,6 +82,7 @@
 * [Roblox-Verifizierung](features/roblox-verifizierung.md)
 * [Selfroles](features/selfroles.md)
 * [Social Alerts](features/social-alerts.md)
+* [Support Status Nachricht](features/support-status-nachricht.md)
 * [Team-Panel](features/team-panel.md)
 * [Tickets](features/ticket-system/README.md)
   * [Warteraum Ansagen](features/ticket-system/warteraum-ansagen.md)
