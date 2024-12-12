@@ -4,7 +4,7 @@ description: Hier zeigen wir dir, wie du das Feedback System richtig einrichtest
 
 # Feedback Settings
 
-Logge dich im Dashboard ein und wechsle zum Menüpunkt "Feedback"
+Logge dich im Dashboard ein und wechsle zum Menüpunkt "Projektmanagement"
 
 Kümmere dich erstmal um die Grundeinstellungen:
 
