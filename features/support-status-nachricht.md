@@ -13,4 +13,4 @@ Das Feauture kann man ganz einfach im Dashbaord einrichten. Danach wird es im Au
 <mark style="color:yellow;">**HINWEIS:**</mark> \
 Nach dem Einrichten kann es bis zu 2 Minuten dauern bis die Nachricht im Channel erscheint.
 
-<figure><img src="../.gitbook/assets/msedge_iN04MlvG3J.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/chrome_vSrNbKtQGq (1).png" alt=""><figcaption></figcaption></figure>

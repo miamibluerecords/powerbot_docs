@@ -11,19 +11,11 @@ _<mark style="background-color:orange;">Wichtig: Das Ticket System muss vorab im
 **Optionen:** Titel / Beschreibung / Channel / Kategorien / Accessrole\
 **Permission:** Administrator
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/Discord_yklc2UxmxR.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/Discord_2N0ZR1SqVU.png" alt=""><figcaption></figcaption></figure></div>
 
 <mark style="color:yellow;">**WICHTIG: @everyone braucht das Recht "Nachrichten in Threads senden" und "Kanal anzeigen", damit User zum Ticket hinzugefügt werden kann.**</mark>
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/Ticket_Kategorie.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/Discord_x3OMOXxqJ2.png" alt=""><figcaption></figcaption></figure></div>
 
 **`/tickets deletepanel`**\
 **Beschreibung:** Generiert ein Dropdownmenü wo man das Ticket-Panel auswählen kann, dass man löschen möchte\

@@ -8,11 +8,7 @@ description: >-
 
 Wer zum Ticket-Support auch einen Voice-Support anbietet, kann im Dashboard einen Warteraum, Öffnungszeiten und Ping-Rollen definieren:
 
-<div data-full-width="true">
-
-<figure><img src="../../.gitbook/assets/support_warteraum_ansagen.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div data-full-width="true"><figure><img src="../../.gitbook/assets/chrome_aYy3Jl7mWP.png" alt=""><figcaption></figcaption></figure></div>
 
 Der Bot reagiert darauf wie folgt:
 
@@ -28,4 +24,4 @@ Was noch nicht funktioniert, aber geplant ist:
 * Verschiedene Zeiten pro Tag auswählen
 
 Copyright:\
-_Bilder, Töne, Ansagen, etc ... die vom PowerBot erstellt werden, gehören auch dem PowerBot. Es ist nicht gestattet diese Bilder, Töne Ansagen, etc ... aufzuzeichnen, zu kopieren, zu verändern, ... --> Siehe Copyright und Urheberrecht. Das sollte grundsätzlich logisch sein. Dennoch möchte ich es erwähnen. Wir müssen gewisse Sounds selber kaufen. Werden diese "geklaut" verletzt man nicht nur unser Recht, sondern verstößt auch gegen Lizenzbestimmungen von Dritten._
+&#xNAN;_&#x42;ilder, Töne, Ansagen, etc ... die vom PowerBot erstellt werden, gehören auch dem PowerBot. Es ist nicht gestattet diese Bilder, Töne Ansagen, etc ... aufzuzeichnen, zu kopieren, zu verändern, ... --> Siehe Copyright und Urheberrecht. Das sollte grundsätzlich logisch sein. Dennoch möchte ich es erwähnen. Wir müssen gewisse Sounds selber kaufen. Werden diese "geklaut" verletzt man nicht nur unser Recht, sondern verstößt auch gegen Lizenzbestimmungen von Dritten._

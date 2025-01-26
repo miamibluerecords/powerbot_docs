@@ -12,7 +12,7 @@ Das Anti-Nuke System kann dich schützen. Jedoch nur, wenn du es richtig benutzt
 
 **Vorab:**
 
-* Gibt nur Personen Admin- oder Server Verwalten Rechte, wenn du ihnen vertraust und sie kennst
+* Gibt nur Personen Admin-, Server Verwalten Rechte oder die Bot-Master Rolle, wenn du ihnen vertraust und sie kennst
 * Lade nur Bots auf deinen Server, die verifiziert sind und deren Website ein ordentliches Impressum hat
 * Hör auf mit Baukasten Bots und pass mit deinen Token auf
 * Nimm nur Personen / Rollen vom Anti-Nuke aus, wenn du ihnen zu 1000% vertraust und wo du weißt, dass sie sorgsam mit ihren Accounts umgehen

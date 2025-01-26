@@ -36,13 +36,14 @@ Damit man im Dashboard den Server verwalten kann, benötigt man eines der folgen
 
 * Administrator
 * Server verwalten
+* Bot-Master Rolle
 
 ***
 
 ### 6) Team Bewerbungen für den PowerBot.
 
 Du möchtest mithelfen und Teil des PowerBot Teams werden? Nice :smile: Das klappt jedoch nur, wenn die Bewerbungen geöffnet sind und du dich bewirbst. \
-Schau dazu einfach bei unserem Discord vorbei und schaue in den Channel [💼︱team-bewerbung ](https://discord.com/channels/994975619521712219/1231311729959506030)\
+Schau dazu einfach bei unserer [Server Website](https://dash.pwr.lol/website/PowerBot) vorbei. \
 Du brauchst jedenfalls <mark style="color:yellow;">**kein Ticket öffnen**</mark>. Wenn die Bewerbungen geschlossen sind, musst du Geduld haben.\
 
 

@@ -8,14 +8,4 @@ description: >-
 
 Details zum Feature gibt es [>>> HIER <<<](../features/ticket-system/)
 
-<div data-full-width="true">
-
-<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-<div data-full-width="true">
-
-<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div data-full-width="true"><figure><img src="../.gitbook/assets/chrome_HapkSbHqzM.png" alt=""><figcaption></figcaption></figure></div>

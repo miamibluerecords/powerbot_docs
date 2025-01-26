@@ -1,8 +1,8 @@
-# Generelle Einstellungen
+# Grundeinstellungen
 
 **Bot Master Rolle:**
 
-_Work in progress | Hat noch keine Funktion_
+Eine Rolle die man im Dashbaord festelegen kann, die dann aufs Dashbaord zugreifen kann.
 
 ***
 

@@ -8,4 +8,4 @@ description: >-
 
 Du kannst in der Nachricht z.B. den Invite-Link deines Servers reinpacken das sie wieder joinen können.
 
-<figure><img src="../.gitbook/assets/entbann-antrag-dashboard.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/chrome_Z3t0AtOGSW.png" alt=""><figcaption></figcaption></figure>

@@ -14,8 +14,4 @@ description: Erstellt eine Teamliste bzw. löscht diese.
 **Optionen:** –\
 **Permission:** Administrator
 
-<div align="center">
-
-<figure><img src="../../.gitbook/assets/teamliste.neu2.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="center"><figure><img src="../../.gitbook/assets/Discord_NMNZaVjycG.png" alt=""><figcaption></figcaption></figure></div>

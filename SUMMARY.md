@@ -6,7 +6,7 @@
 
 * [YT-Tutorial: Erste Schritte mit dem PowerBot](grundeinstellungen/yt-tutorial-erste-schritte-mit-dem-powerbot.md)
 * [1) Bot einladen](grundeinstellungen/1-bot-einladen.md)
-* [2) Generelle Einstellungen](grundeinstellungen/2-generelle-einstellungen.md)
+* [2) Grundeinstellungen](grundeinstellungen/2-grundeinstellungen.md)
 * [3) Logging Channel definieren](grundeinstellungen/3-logging-channel-definieren.md)
 
 ## 💡 FAQ
@@ -22,7 +22,7 @@
   * [/feedback](commands/admin-commands/feedback.md)
   * [/formular](commands/admin-commands/formular.md)
   * [/games](commands/admin-commands/games.md)
-  * [/generate\_welcomebanner](commands/admin-commands/generate\_welcomebanner.md)
+  * [/generate\_welcomebanner](commands/admin-commands/generate_welcomebanner.md)
   * [/giveaway](commands/admin-commands/giveaway.md)
   * [/info](commands/admin-commands/info.md)
   * [/modstats](commands/admin-commands/modstats.md)
@@ -70,6 +70,7 @@
 * [CRM - Zeiterfassung](features/crm-zeiterfassung.md)
 * [Custom Commands](features/custom-commands.md)
 * [Economy System](features/economy-system.md)
+* [Embed-Builder System](features/embed-builder-system.md)
 * [Entbann-Antrag System](features/entbann-antrag-system.md)
 * [Feedbacks](features/feedback-system.md)
 * [Formulare](features/formulare.md)
@@ -93,14 +94,19 @@
 
 ## 🖥️ dashboard
 
-* [Generelle Einstellungen](dashboard/generelle-einstellungen.md)
-* [Logging Channel Settings](dashboard/logging-channel-settings.md)
+* [Bewerbungscenter](dashboard/bewerbungscenter.md)
+* [Bewerbungs Settings](dashboard/bewerbungs-settings.md)
+* [Grundeinstellungen](dashboard/grundeinstellungen.md)
+* [Logging Settings](dashboard/logging-settings.md)
 * [Special Channels Settings](dashboard/special-channels-settings.md)
 * [Welcome Message Settings](dashboard/welcome-message-settings.md)
 * [Level System Settings](dashboard/level-system-settings.md)
 * [Entbann-Antrag Settings](dashboard/entbann-antrag-settings.md)
 * [Auto Mod Settings](dashboard/auto-mod-settings.md)
+* [Embed-Builder Settings](dashboard/embed-builder-settings.md)
 * [Ticket System Settings](dashboard/ticket-system-settings.md)
 * [Team-Panel Settings](dashboard/team-panel-settings.md)
 * [Feedback Settings](dashboard/feedback-settings.md)
+* [Server-Website](dashboard/server-website.md)
 * [Social Alerts Settings](dashboard/social-alerts-settings.md)
+* [Verwaltungs Settings](dashboard/verwaltungs-settings.md)

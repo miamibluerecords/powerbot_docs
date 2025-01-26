@@ -13,8 +13,4 @@ Momentan kannst du Social-Alerts für folgende Portale einrichten:
 
 Einrichten kannst du das System im Dashboard unter "Social-Alerts".
 
-<div data-full-width="true">
-
-<figure><img src="../.gitbook/assets/social_alerts_dash.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div data-full-width="true"><figure><img src="../.gitbook/assets/chrome_b9zlpHFbgw (1).png" alt=""><figcaption></figcaption></figure></div>

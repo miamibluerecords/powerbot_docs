@@ -8,8 +8,4 @@ description: Generiert den eigenen Userbanner.
 **Optionen:** –\
 **Permission:** -
 
-<div align="center">
-
-<figure><img src="../../.gitbook/assets/userbanner_bkbbenedikt.webp" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="center"><figure><img src="../../.gitbook/assets/userbanner_bkbbenedikt (2).png" alt=""><figcaption></figcaption></figure></div>

@@ -20,7 +20,7 @@ Der Text, der im Welcome Channel, über dem Welcome Banner, gepostet wird, wenn 
 
 Hintergrundbild-Link:
 
-Gib den Link zum Hintergrundbild für den Welcome-Banner an.
+Gib den Link zum Hintergrundbild für den Welcome-Banner an oder Lade die Datei hoch.
 
 <mark style="background-color:orange;">(Größe 700x350 px)(Format: jpg|png)</mark>
 
@@ -28,10 +28,8 @@ Gib den Link zum Hintergrundbild für den Welcome-Banner an.
 
 Willkommens DM:
 
-Aktiviere/Deaktiviere, dass eine Willkommens DM an den User geschickt wird.
+Aktiviere/Deaktiviere, dass eine Willkommens DM an den User geschickt wird
 
 ***
 
-<mark style="background-color:orange;">Bilder Upload funktioniert noch nicht -> WIP</mark>
-
-<figure><img src="../.gitbook/assets/Bild_2024-02-07_201426017.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/chrome_dI2TlIcyxz (1).png" alt=""><figcaption></figcaption></figure>
